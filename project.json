@@ -19,7 +19,10 @@
       "imports": [
         "portable-net45+win8",
         "dnxcore50"
-      ]
+      ],
+      "dependencies": {
+        "Suave": "2.0.0-alpha"
+      }
     }
   }
 }
